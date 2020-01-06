@@ -1,5 +1,13 @@
 /** colours **/
 
+.border-white {
+  border: 3px solid #fff;
+}
+
+.bg-none {
+  background-color: none;
+}
+
 .white {
   color: #fff;
 }
