@@ -1,7 +1,41 @@
+/** colours **/
+
 .white {
-  color: white;
+  color: #fff;
+}
+
+.bg-white {
+  background-color: #fff;
 }
 
 .dark-blue {
+  color: #495562;
+}
+
+.bg-dark-blue {
   background-color: #495562;
+}
+
+.light-grey {
+  color: #efefef;
+}
+
+.bg-light-grey {
+  background-color: #efefef;
+}
+
+.dark-grey {
+  color: #97a49b;
+}
+
+.bg-dark-grey {
+  background-color: #97a49b;
+}
+
+.darkest-grey {
+  color: rgba(73, 85, 98, .9);
+}
+
+.bg-darkest-grey {
+  background-color: rgba(73, 85, 98, .9);
 }
